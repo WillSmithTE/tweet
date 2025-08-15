@@ -1,7 +1,7 @@
 # Tweet CLI (Deprecated)
 
 > [!IMPORTANT]
-> This project is no longer being maintained. Please use [Crosspost](https://github.com/humanwhocodes.com/crosspost) instead.
+> This project is no longer being maintained. Please use [Crosspost](https://github.com/humanwhocodes/crosspost) instead.
 
 ## Description
 
